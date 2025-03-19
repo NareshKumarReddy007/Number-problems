@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Armostrongnum
+class armostrongnum
 {
     public static void main(String[] args) 
     {
